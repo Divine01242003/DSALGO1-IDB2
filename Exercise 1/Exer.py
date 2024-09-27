@@ -9,6 +9,7 @@ print("You",userInput,"Pesos")
 print("You can afford",afford,"Wii's")
 print("You needed ",neededMoney,"pesos to afford a wii's")
 '''
+
 '''
 sum = 0 
 for x in range (1,11):
@@ -42,10 +43,4 @@ for x in range(1, userInput + 1):
          print(x)
 '''
 
-factorList = []
-x =int (input("Enter a Number"))
-for x in range(1, userInput + 1):
-        if userInput % x == 0:
-         factorList.append(a)
-         print("The factorial of", x,"are,")
 

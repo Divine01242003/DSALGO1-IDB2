@@ -1,3 +1,7 @@
+#Mahusay, Divine Mars G
+#DSALGO1
+#11/15/2024
+#Activity 1 Finals
 from LinkedStack import LinkedStack as Stack
 from LinkedQueue import LinkedQueue as Queue
 from LinkedDeque import LinkedDeque as Deque

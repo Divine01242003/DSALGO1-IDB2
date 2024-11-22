@@ -10,4 +10,4 @@ This is my This is my repository for all my activities of my DISALGO1 class
 
 11/15/2024 - Finals/Activity #1 
 
-11/22/2023 -Finals/LinkList Activity #2
+11/22/2023 -Finals/Activity #2
